@@ -1,0 +1,11 @@
+kit_id	production	weight_kg	case_type	available	revision
+KT-ALPHA	Aurora	12	road	yes	1
+KT-ALPHA	Aurora	14	road	yes	2
+KT-BRAVO	Aurora	8	flight	yes	1
+KT-CEDAR	Nimbus	20	road	yes	1
+KT-DORIAN	Nimbus	5	flight	no	1
+KT-EMBER	Solace	7	road	yes	1
+KT-EMBER	Solace	9	road	yes	2
+KT-FABLE	Solace	11	road	maybe	1
+KT-GHOST	Aurora	03	road	yes	1
+KT-ALPHA	Aurora	15	road	yes	2

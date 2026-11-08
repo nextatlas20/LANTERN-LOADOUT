@@ -1,0 +1,14 @@
+{"inspection_id":"IN-001","kit_id":"KT-ALPHA","inspected_at":"2064-03-02T09:00","status":"cleared","revision":1}
+{"inspection_id":"IN-002","kit_id":"KT-ALPHA","inspected_at":"2064-03-04T11:30","status":"cleared","revision":1}
+{"inspection_id":"IN-003","kit_id":"KT-BRAVO","inspected_at":"2064-03-03T14:00","status":"cleared","revision":1}
+{"inspection_id":"IN-004","kit_id":"KT-CEDAR","inspected_at":"2064-02-28T10:00","status":"cleared","revision":1}
+{"inspection_id":"IN-005","kit_id":"KT-CEDAR","inspected_at":"2064-03-05T08:15","status":"held","revision":1}
+{"inspection_id":"IN-005","kit_id":"KT-CEDAR","inspected_at":"2064-03-05T08:15","status":"cleared","revision":2}
+{"inspection_id":"IN-006","kit_id":"KT-DORIAN","inspected_at":"2064-03-04T12:00","status":"cleared","revision":1}
+{"inspection_id":"IN-007","kit_id":"KT-EMBER","inspected_at":"2064-03-06T17:45","status":"held","revision":1}
+{"inspection_id":"IN-008","kit_id":"KT-EMBER","inspected_at":"2064-03-07T10:00","status":"pending","revision":1}
+{"inspection_id":"IN-009","kit_id":"KT-UNKNOWN","inspected_at":"2064-03-04T07:00","status":"cleared","revision":1}
+{"inspection_id":"IN-010","kit_id":"KT-BRAVO","inspected_at":"2064-03-08T00:00","status":"cleared","revision":1}
+{"inspection_id":"IN-011","kit_id":"KT-BRAVO","inspected_at":"2064-03-03T14:00","status":"cleared","revision":1}
+{"inspection_id":"IN-012","kit_id":"KT-EMBER","inspected_at":"2064-03-06T16:20","status":"cleared","revision":1}
+not json
