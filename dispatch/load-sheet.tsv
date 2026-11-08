@@ -1,0 +1,5 @@
+load_date	processing_order	kit_id	production	case_type	weight_kg	inspected_at	assignment	bay_sequence
+2064-03-07	1	KT-BRAVO	Aurora	flight	8	2064-03-03T14:00	BAY-SOUTH	1
+2064-03-07	2	KT-ALPHA	Aurora	road	15	2064-03-04T11:30	BAY-NORTH	1
+2064-03-07	3	KT-CEDAR	Nimbus	road	20	2064-03-05T08:15	standby	—
+2064-03-07	4	KT-EMBER	Solace	road	9	2064-03-06T16:20	BAY-NORTH	2
